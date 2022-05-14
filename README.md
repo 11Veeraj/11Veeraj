@@ -23,7 +23,6 @@
 <p align="left">
 <a href="mailto:goudarveeraj@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/veeraj-goudar-a3348020a" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  
   <a href="https://www.instagram.com/11_veeraj/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
    </p>
 

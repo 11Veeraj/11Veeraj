@@ -3,8 +3,6 @@
 <h1 align="center">Ciao 👋, I'm Veeraj Goudar</h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=11Veeraj&label=Profile%20views&color=0e75b6&style=flat" alt="11Veeraj" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11Veeraj" alt="11Veeraj" /></a> </p>
 
 - 🔭 I’m currently working on **Dream Project Which Helps Rural People To Select Their Course**

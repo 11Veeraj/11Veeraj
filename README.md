@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=koulen&center=true&vCenter=true&lines=Welcome+To+My+Space!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&size=35&color=1F51FF&lines=Welcome+To+My+Space!!!)](https://git.io/typing-svg)
 
 <h1 align="center">Ciao 👋, I'm Veeraj Goudar</h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast</h3>

@@ -77,12 +77,6 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11Veeraj&" alt="11Veeraj" /></p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/11Veeraj/count.svg" />
-</p>
-
 <br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/11Veeraj?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>

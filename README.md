@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/veeraj-goudar-a3348020a/" title="LinkedIn Profile"><img width="60" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/11_veeraj/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/11_veeraj/" title="Instagram Profile"><img width="60" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">

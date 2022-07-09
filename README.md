@@ -77,13 +77,14 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=11Veeraj&show_icons=true&locale=en&layout=compact" alt="11Veeraj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=11Veeraj&show_icons=true&locale=en" alt="11Veeraj" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11Veeraj&" alt="11Veeraj" /></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/11Veeraj/count.svg" />
 </p>
+
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/11Veeraj?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+

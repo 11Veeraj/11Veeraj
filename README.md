@@ -41,7 +41,6 @@
   <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg"></code>
   <code><img title="Git" height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Java" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>

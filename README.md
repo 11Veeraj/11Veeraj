@@ -22,8 +22,6 @@
   <br>
   💬 Ask me about **Python, Machine Learning, DSA**
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
   💬 Ask me anything about from <a href="https://github.com/11Veeraj/11Veeraj/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: goudarveeraj@gmail.com">goudarveeraj@gmail.com</a>

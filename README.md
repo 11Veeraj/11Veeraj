@@ -78,7 +78,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/11Veeraj/yolov5" title="YOLOv5 for AIHU"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=11Veeraj&repo=yolov5&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/11Veeraj/Cyclone-Prediction-LSTM" title="Cyclone-Prediction using LSTM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=11Veeraj&repo=Cyclone-Prediction-LSTM&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/11Veeraj/yolov5" title="YOLOv5 for AIHU"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=11Veeraj&repo=yolov5&theme=react&border_color=61dafb&border_radius=8"></a><a align="right" href="https://github.com/11Veeraj/Cyclone-Prediction-LSTM" title="Cyclone-Prediction using LSTM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=11Veeraj&repo=Cyclone-Prediction-LSTM&theme=react&border_color=61dafb&border_radius=8"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">

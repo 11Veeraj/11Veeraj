@@ -58,10 +58,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=11Veeraj&theme=react&border=61dafb&hide_border=true" alt="11Veeraj" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=11Veeraj&theme=react&border=61dafb&hide_border=true" alt="11Veeraj" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=11Veeraj&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=11Veeraj&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -77,7 +77,7 @@
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
+<div width="80%" align="center">
   <a align="left" href="https://github.com/11Veeraj/yolov5" title="YOLOv5 for AIHU"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=11Veeraj&repo=yolov5&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/11Veeraj/Cyclone-Prediction-LSTM" title="Cyclone-Prediction using LSTM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=11Veeraj&repo=Cyclone-Prediction-LSTM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
